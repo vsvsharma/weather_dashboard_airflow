@@ -9,7 +9,7 @@ A dynamic weather dashboard showcasing comprehensive information on rainfall, hu
 - Developed the architectural framework using Airflow, ensuring scalability, reliability, and cost-effectiveness.
 
 ## Dashboard
-![dashboard](weather_dashboard.png)
+<img width="1000px" src="./weather_dashboard.png" alt="Dashboard" />
 
 
 ## Features
@@ -21,7 +21,7 @@ A dynamic weather dashboard showcasing comprehensive information on rainfall, hu
 - Informative Visuals: This dashboard features visually appealing charts, graphs, and maps to enhance your understanding of weather patterns.
 
 ## DAG Components
-![Dag](airflow_dag.png)
+<img width="1000px" src="./airflow_dag.png" alt="DAG" />
 
 ## Tech
 
